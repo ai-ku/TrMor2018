@@ -349,7 +349,7 @@ EMİROĞLU emiroğlu+Noun+A3sg+Pnon+Nom emiroğ+Noun+A3sg+Pnon+Nom^DB+Adj+With e
 NEW new+Noun+A3sg+Pnon+Nom
 YORK York+Noun+Prop+A3sg+Pnon+Nom
 / /+Punc
-BM bm+Noun+A3sg+Pnon+Nom
+BM bm+Noun+Prop+A3sg+Pnon+Nom
 </S> </S>+ESTag
 <S> <S>+BSTag
 IRAK Irak+Noun+Prop+A3sg+Pnon+Nom ırak+Adj
@@ -361,7 +361,7 @@ boru boru+Noun+A3sg+Pnon+Nom bor+Noun+A3sg+P3sg+Nom bor+Noun+A3sg+Pnon+Acc bor+A
 hattından hat+Noun+A3sg+P3sg+Abl hat+Noun+A3sg+P2sg+Abl
 akmasını ak+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Acc
 sağlayan sağla+Verb+Pos^DB+Adj+PresPart
-BM bm+Noun+A3sg+Pnon+Nom
+BM bm+Noun+Prop+A3sg+Pnon+Nom
 kararının karar+Noun+A3sg+P3sg+Gen kar+Verb+Pos+Aor^DB+Adj+Zero^DB+Noun+Zero+A3sg+P3sg+Gen kar+Verb+Pos+Aor^DB+Adj+Zero^DB+Noun+Zero+A3sg+P2sg+Gen karar+Noun+A3sg+P2sg+Gen
 uygulanması uygula+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom uygula+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2^DB+Adj+Almost
 , ,+Punc
@@ -463,7 +463,7 @@ başta baş+Noun+A3sg+Pnon+Loc başta+Adverb
 ABD Abd+Noun+Prop+A3sg+Pnon+Nom
 olmak ol+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
 üzere üzere+Postp+PCNom
-BM bm+Noun+A3sg+Pnon+Nom
+BM bm+Noun+Prop+A3sg+Pnon+Nom
 Güvenlik güvenlik+Noun+A3sg+Pnon+Nom güven+Noun+A3sg+Pnon+Nom^DB+Adj+FitFor güven+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
 Konseyi'ne Konsey+Noun+Prop+A3sg+P3sg+Dat
 üye üye+Noun+A3sg+Pnon+Nom
@@ -490,7 +490,7 @@ nedenle neden+Noun+A3sg+Pnon+Ins
 aralarında ara+Noun+A3pl+P3pl+Loc arala+Verb+Pos+Aor^DB+Adj+Zero^DB+Noun+Zero+A3sg+P3sg+Loc arala+Verb+Pos+Aor^DB+Adj+Zero^DB+Noun+Zero+A3sg+P2sg+Loc ara+Noun+A3sg+P3pl+Loc ara+Noun+A3pl+P3sg+Loc ara+Noun+A3pl+P2sg+Loc
 ABD'nin Abd+Noun+Prop+A3sg+Pnon+Gen
 TEACO teaco+Noun+A3sg+Pnon+Nom
-Inc ınc+Noun+A3sg+Pnon+Nom
+Inc Inc+Noun+A3sg+Pnon+Nom
 . .+Punc
 , ,+Punc
 İtalya'nın İtalya+Noun+Prop+A3sg+Pnon+Gen İtalya+Noun+Prop+A3sg+P2sg+Gen
@@ -735,9 +735,9 @@ ortaya orta+Noun+A3sg+Pnon+Dat ortay+Noun+A3sg+Pnon+Dat
 çıkardı çık+Verb^DB+Verb+Caus+Pos+Past+A3sg çık+Verb+Pos+Aor+Past+A3sg çıkar+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
 </S> </S>+ESTag
 <S> <S>+BSTag
-RP rp+Noun+A3sg+Pnon+Nom
+RP rp+Noun+Prop+A3sg+Pnon+Nom
 , ,+Punc
-YÖK yök+Noun+A3sg+Pnon+Nom
+YÖK yök+Noun+Prop+A3sg+Pnon+Nom
 Başkanı başkan+Noun+A3sg+P3sg+Nom başka+Adj^DB+Noun+Zero+A3sg+P2sg+Acc başka+Postp+PCAbl^DB+Noun+Zero+A3sg+P2sg+Acc başkan+Noun+A3sg+Pnon+Acc
 Kemal Kemal+Noun+Prop+A3sg+Pnon+Nom kemal+Noun+A3sg+Pnon+Nom
 Gürüz'le Gürüz+Noun+Prop+A3sg+Pnon+Ins
@@ -746,7 +746,7 @@ türban türban+Noun+A3sg+Pnon+Nom
 yasağı yasak+Noun+A3sg+P3sg+Nom yasak+Noun+A3sg+Pnon+Acc
 uyguladıkları uygula+Verb+Pos^DB+Noun+PastPart+A3sg+P3pl+Nom uygula+Verb+Pos^DB+Adj+PastPart+P3pl uygula+Verb+Pos^DB+Noun+PastPart+A3pl+P3pl+Nom uygula+Verb+Pos^DB+Noun+PastPart+A3pl+P3sg+Nom
 gerekçesiyle gerekçe+Noun+A3sg+P3sg+Ins
-ODTÜ odtü+Noun+A3sg+Pnon+Nom
+ODTÜ odtü+Noun+Prop+A3sg+Pnon+Nom
 , ,+Punc
 Hacettepe Hacettepe+Noun+Prop+A3sg+Pnon+Nom
 , ,+Punc
@@ -771,7 +771,7 @@ sosyal sosyal+Adj
 araştırmalar araştır+Verb+Pos^DB+Noun+Inf2+A3pl+Pnon+Nom ara+Verb+Recip^DB+Verb+Caus+Pos^DB+Noun+Inf2+A3pl+Pnon+Nom
 merkezi merkez+Noun+A3sg+P3sg+Nom merkez+Noun+A3sg+Pnon+Acc merkezi+Adj
 ( (+Punc
-ESAM esam+Noun+A3sg+Pnon+Nom esa+Noun+A3sg+P1sg+Nom
+ESAM esam+Noun+Prop+A3sg+Pnon+Nom esa+Noun+A3sg+P1sg+Nom
 ) )+Punc
 ve ve+Conj
 gençlik gençlik+Noun+A3sg+Pnon+Nom genç+Noun+A3sg+Pnon+Nom^DB+Adj+FitFor genç+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom genç+Adj^DB+Noun+Ness+A3sg+Pnon+Nom
@@ -827,20 +827,20 @@ Raporda rapor+Noun+A3sg+Pnon+Loc
 TBMM'de Tbmm+Noun+Prop+A3sg+Pnon+Loc
 önceki önce+Noun+A3sg+Pnon+Nom^DB+Adj+Rel önce+Postp+PCAbl^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+Rel
 gün gün+Noun+A3sg+Pnon+Nom
-YÖK yök+Noun+A3sg+Pnon+Nom
+YÖK yök+Noun+Prop+A3sg+Pnon+Nom
 yasasında yasa+Noun+A3sg+P3sg+Loc yas+Verb+Pos^DB+Noun+FeelLike+A3sg+P2sg+Loc
 sağlanan sağla+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart sağ+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Adj+PresPart
 değişiklikten değişik+Adj^DB+Noun+Ness+A3sg+Pnon+Abl
 sonra sonra+Postp+PCAbl sonra+Adverb sonra+Noun+A3sg+Pnon+Nom
 , ,+Punc
-YÖK yök+Noun+A3sg+Pnon+Nom
+YÖK yök+Noun+Prop+A3sg+Pnon+Nom
 Başkanı başkan+Noun+A3sg+P3sg+Nom başka+Adj^DB+Noun+Zero+A3sg+P2sg+Acc başka+Postp+PCAbl^DB+Noun+Zero+A3sg+P2sg+Acc başkan+Noun+A3sg+Pnon+Acc
 Prof. profesör+Noun+A3sg+Pnon+Nom
 Dr. doktor+Noun+A3sg+Pnon+Nom
 Kemal Kemal+Noun+Prop+A3sg+Pnon+Nom kemal+Noun+A3sg+Pnon+Nom
 Gürüz'le Gürüz+Noun+Prop+A3sg+Pnon+Ins
 birlikte birlikte+Postp+PCIns birlikte+Adverb birlik+Noun+A3sg+Pnon+Loc bir+Adj^DB+Noun+Ness+A3sg+Pnon+Loc bir+Num+Card^DB+Noun+Ness+A3sg+Pnon+Loc
-ODTÜ odtü+Noun+A3sg+Pnon+Nom
+ODTÜ odtü+Noun+Prop+A3sg+Pnon+Nom
 Rektörü rektör+Noun+A3sg+P3sg+Nom rektör+Noun+A3sg+Pnon+Acc
 Prof. profesör+Noun+A3sg+Pnon+Nom
 Dr. doktor+Noun+A3sg+Pnon+Nom
