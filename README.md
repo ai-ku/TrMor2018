@@ -3,7 +3,10 @@
 ## TrMor2018
 
 New Turkish morphology dataset based on mixed genre text used in the following
-paper. Verified to have 97% inter-annotator agreement.
+paper. Verified to have 97% inter-annotator agreement.  trmor2018.train includes all the
+semiautomatically annotated data that was randomly split and used in the experiments of
+http://arxiv.org/abs/1805.07946. trmor2018.gold is a manually annotated subset used to
+measure the accuracy of trmor2018.train.
 
 ```
 @article{DBLP:journals/corr/abs-1805-07946,
