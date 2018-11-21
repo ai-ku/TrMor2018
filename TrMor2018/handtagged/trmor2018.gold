@@ -297,7 +297,7 @@ de	de+Conj
 korkarım	kork+Verb+Pos+Aor+A1sg
 ,	,+Punct
 benim	ben+Pron+Pers+A1sg+Pnon+Gen
-için	için+Postp+PCNom
+için	için+Postp+PCGen
 yeni	yeni+Adj
 bir	bir+Det
 şey	şey+Noun+A3sg+Pnon+Nom
@@ -2352,7 +2352,7 @@ ediyorum	et+Verb+Pos+Prog1+A1sg
 .	.+Punct
 </S>
 <S id="1.4.261">
-Hiç	?
+Hiç	hiç+Adverb
 kimseye	kimse+Noun+A3sg+Pnon+Dat
 bayan	bayan+Noun+A3sg+Pnon+Nom
 !	!+Punct
@@ -2581,7 +2581,7 @@ görünüyordu	görün+Verb+Pos+Prog1+Past+A3sg
 <S id="1.5.12">
 -	-+Punct
 Senin	sen+Pron+Pers+A2sg+Pnon+Gen
-gibi	gibi+Postp+PCNom
+gibi	gibi+Postp+PCGen
 düşünenler	düşün+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3pl+Pnon+Nom
 çok	çok+Adj
 mudur	mu+Ques+Pres+A3sg+Cop
@@ -5272,7 +5272,7 @@ tuzu	tuz+Noun+A3sg+P3sg+Nom
 biberiyse	biber+Noun+A3sg+P3sg+Nom^DB+Verb+Zero+Cond+A3sg
 ,	,+Punct
 bizim	biz+Pron+Pers+A1pl+Pnon+Gen
-için	için+Postp+PCNom
+için	için+Postp+PCGen
 de	de+Conj
 ahlak	ahlak+Noun+A3sg+Pnon+Nom
 öyle	öyle+Adj
@@ -6083,7 +6083,7 @@ para	para+Noun+A3sg+Pnon+Nom
 harcarken	harca+Verb+Pos+Aor^DB+Adverb+While
 görmek	gör+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
 benim	ben+Pron+Pers+A1sg+Pnon+Gen
-için	için+Postp+PCNom
+için	için+Postp+PCGen
 zevk	zevk+Noun+A3sg+Pnon+Nom
 olacak	ol+Verb+Pos+Fut+A3sg
 Pip	pip+Noun+A3sg+Pnon+Nom
@@ -6178,7 +6178,7 @@ tutabildim	tut+Verb+Pos^DB+Verb+Able+Past+A1sg
 .	.+Punct
 </S>
 <S id="1.12.511">
-Hiç	hiç+Noun+A3sg+Pnon+Nom
+Hiç	hiç+Adverb
 kimseye	kimse+Noun+A3sg+Pnon+Dat
 bir	bir+Det
 şey	şey+Noun+A3sg+Pnon+Nom
@@ -6541,7 +6541,7 @@ elbette	elbette+Adverb
 </S>
 <S id="1.13.235">
 Bizim	biz+Pron+Pers+A1pl+Pnon+Gen
-gibi	gibi+Postp+PCNom
+gibi	gibi+Postp+PCGen
 hiçbir	hiçbir+Det
 şeyi	şey+Noun+A3sg+Pnon+Acc
 olmayan	ol+Verb+Neg^DB+Adj+PresPart
@@ -6826,7 +6826,7 @@ Yoksa	yok+Adj^DB+Verb+Zero+Cond+A3sg
 kötü	kötü+Adj
 olur	ol+Verb+Pos+Aor+A3sg
 onun	o+Pron+Pers+A3sg+Pnon+Gen
-için	için+Postp+PCNom
+için	için+Postp+PCGen
 ,	,+Punct
 çok	çok+Adverb
 kötü	kötü+Adj
@@ -6840,12 +6840,12 @@ bizim	biz+Pron+Pers+A1pl+Pnon+Gen
 iki	iki+Num+Card
 aptalınkinden	aptal+Adj^DB+Noun+Zero+A3sg+Pnon+Gen^DB+Pron+Rel+A3sg+Pnon+Abl
 daha	daha+Adverb
-iyi	?
+iyi	iyi+Adj
 çalıştığını	çalış+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Acc
 ,	,+Punct
 durumu	durum+Noun+A3sg+Pnon+Acc
 daha	daha+Adverb
-iyi	?
+iyi	iyi+Adj
 kavradığınızı	kavra+Verb+Pos^DB+Noun+PastPart+A3sg+P2pl+Acc
 gördüğüm	gör+Verb+Pos^DB+Noun+PastPart+A3sg+P1sg+Nom
 için	için+Postp+PCNom
@@ -7690,7 +7690,7 @@ asılıydı	?
 Ayrıca	ayrıca+Adverb
 yine	yine+Adverb
 çok	çok+Adverb
-iyi	?
+iyi	iyi+Adj
 bilirsiniz	bil+Verb+Pos+Aor+A2pl
 ki	ki+Conj
 ,	,+Punct
@@ -8378,7 +8378,7 @@ ses	ses+Noun+A3sg+Pnon+Nom
 </S>
 <S id="1.16.136">
 Onun	o+Pron+Pers+A3sg+Pnon+Gen
-için	için+Postp+PCNom
+için	için+Postp+PCGen
 sakın	sakın+Interj
 üzülmeyin	üz+Verb^DB+Verb+Pass+Neg+Imp+A2pl
 .	.+Punct
@@ -8479,7 +8479,7 @@ ama	ama+Conj
 O	o+Det
 yüzden	yüz+Noun+A3sg+Pnon+Abl
 benim	ben+Pron+Pers+A1sg+Pnon+Gen
-için	için+Postp+PCNom
+için	için+Postp+PCGen
 yaptıklarınızı	yap+Verb+Pos^DB+Noun+PastPart+A3pl+P2pl+Acc
 takdir	takdir+Noun+A3sg+Pnon+Nom
 ediyorum	et+Verb+Pos+Prog1+A1sg
@@ -8500,7 +8500,7 @@ geldi	gel+Verb+Pos+Past+A3sg
 Ben	ben+Pron+Pers+A1sg+Pnon+Nom
 de	de+Conj
 sizin	siz+Pron+Pers+A2pl+Pnon+Gen
-gibi	gibi+Postp+PCNom
+gibi	gibi+Postp+PCGen
 düşünüyorum	düşün+Verb+Pos+Prog1+A1sg
 .	.+Punct
 </S>
@@ -8590,7 +8590,7 @@ ettiniz	et+Verb+Pos+Past+A2pl
 </S>
 <S id="1.16.360">
 Onun	o+Pron+Pers+A3sg+Pnon+Gen
-için	için+Postp+PCNom
+için	için+Postp+PCGen
 kendimi	kendi+Pron+Reflex+A1sg+P1sg+Acc
 öldüreceğimi	öl+Verb^DB+Verb+Caus+Pos^DB+Noun+FutPart+A3sg+P1sg+Acc
 mi	mi+Ques+Pres+A3sg
@@ -8738,7 +8738,7 @@ devamı	devam+Noun+A3sg+P3sg+Nom
 sayılan	say+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
 Otroçestvo	otroçestvo+Noun+A3sg+Pnon+Nom
 (	(+Punct
-İlk	İlk+Noun+A3sg+Pnon+Nom
+İlk	ilk+Adj
 Gençlik	Gençlik+Noun+A3sg+Pnon+Nom
 )	)+Punct
 ve	ve+Conj
@@ -9169,7 +9169,7 @@ bulmaya	bul+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Dat
 Böyle	böyle+Adverb
 olması	ol+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
 senin	sen+Pron+Pers+A2sg+Pnon+Gen
-için	için+Postp+PCNom
+için	için+Postp+PCGen
 de	de+Conj
 daha	daha+Adverb
 iyi	iyi+Adj
@@ -10795,7 +10795,7 @@ sağlar	sağla+Verb+Pos+Aor+A3sg
 </S>
 <S id="2.1.829">
 Sizin	siz+Pron+Pers+A2pl+Pnon+Gen
-için	için+Postp+PCNom
+için	için+Postp+PCGen
 anlamlı	anlam+Noun+A3sg+Pnon+Nom^DB+Adj+With
 olan	ol+Verb+Pos^DB+Adj+PresPart
 bir	bir+Det
@@ -11116,7 +11116,7 @@ gerekir	gerek+Verb+Pos+Aor+A3sg
 .	.+Punct
 </S>
 <S id="2.1.1025">
-Yeni	Yeni+Noun+A3sg+Pnon+Nom
+Yeni	yeni+Adj
 Uyarı	uyarı+Noun+A3sg+Pnon+Nom
 sayfasında	sayfa+Noun+A3sg+P3sg+Loc
 ,	,+Punct
@@ -11182,7 +11182,7 @@ altındaki	alt+Noun+A3sg+P3sg+Loc^DB+Adj+Rel
 Sürüm	Sürüm+Noun+A3sg+Pnon+Nom
 Oluşturma	oluş+Verb^DB+Verb+Caus+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
 Ayarları'nı	Ayar+Noun+A3pl+P3sg+Acc
-tıklatın	tıkla+Verb^DB+Verb+Caus+Pos+Imp+A2pl
+tıklatın	tıklat+Verb+Pos+Imp+A2pl
 .	.+Punct
 </S>
 <S id="2.1.1096">
@@ -13719,10 +13719,10 @@ tıklatın	tıklat+Verb+Pos+Imp+A2pl
 <S id="2.1.2789">
 Bağımsız	bağımsız+Adj
 değişkenler	değişken+Adj^DB+Noun+Zero+A3pl+Pnon+Nom
-ya	?
+ya	ya+Conj
 sayı	sayı+Noun+A3sg+Pnon+Nom
 olmalı	ol+Verb+Pos+Neces+A3sg
-ya	?
+ya	ya+Conj
 da	da+Conj
 sayı	sayı+Noun+A3sg+Pnon+Nom
 içeren	içer+Verb+Pos^DB+Adj+PresPart
@@ -14092,7 +14092,7 @@ ve	ve+Conj
 çevirme	?
 konumu	konum+Noun+A3sg+P3sg+Nom
 ayarları	ayar+Noun+A3pl+P3sg+Nom
-ile	?
+ile	ile+Conj
 diğer	diğer+Adj
 ayarları	ayar+Noun+A3pl+Pnon+Acc
 ağ	ağ+Noun+A3sg+Pnon+Nom
@@ -14446,7 +14446,7 @@ yapısı	yapı+Noun+A3sg+P3sg+Nom
 veya	veya+Conj
 görünüm	görünüm+Noun+A3sg+Pnon+Nom
 tanımı	tanım+Noun+A3sg+P3sg+Nom
-ile	?
+ile	ile+Postp+PCNom
 ilgili	ilgili+Noun+A3sg+Pnon+Nom
 bilgilere	bilgi+Noun+A3pl+Pnon+Dat
 erişirken	eriş+Verb+Pos+Aor^DB+Adverb+While
@@ -16243,7 +16243,7 @@ seçime	seçim+Noun+A3sg+Pnon+Dat
 göre	göre+Postp+PCDat
 filtre	filtre+Noun+A3sg+Pnon+Nom
 uygula	uygula+Verb+Pos+Imp+A2sg
-ile	?
+ile	ile+Postp+PCNom
 gizlendiyse	gizle+Verb^DB+Verb+Pass+Pos+Past+Cond+A3sg
 ,	,+Punct
 alan	alan+Noun+A3sg+Pnon+Nom
@@ -17713,7 +17713,7 @@ penceresinde	pencere+Noun+A3sg+P3sg+Loc
 çalıştırmak	çalış+Verb^DB+Verb+Caus+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
 istediğiniz	iste+Verb+Pos^DB+Adj+PastPart+P2pl
 görevi	görev+Noun+A3sg+Pnon+Acc
-tıklatın	tıkla+Verb^DB+Verb+Caus+Pos+Imp+A2pl
+tıklatın	tıklat+Verb+Pos+Imp+A2pl
 .	.+Punct
 </S>
 <S id="2.1.5430">
@@ -18383,7 +18383,7 @@ doğrulamaz	doğrula+Verb+Neg+Aor+A3sg
 .	.+Punct
 </S>
 <S id="2.1.5749">
-Tek	Tek+Noun+A3sg+Pnon+Nom
+Tek	tek+Adj
 Oturum	Oturum+Noun+A3sg+Pnon+Nom
 Açma'nın	Aç+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Gen
 bu	bu+Det
@@ -20033,7 +20033,7 @@ hazırlanmış	hazırla+Verb^DB+Verb+Pass+Pos+Narr+A3sg
 <S id="3.7.44">
 Umarım	um+Verb+Pos+Aor+A1sg
 benim	ben+Pron+Pers+A1sg+Pnon+Gen
-gibi	gibi+Postp+PCNom
+gibi	gibi+Postp+PCGen
 sorunsuz	sorun+Noun+A3sg+Pnon+Nom^DB+Adj+Without
 bir	bir+Adj
 yolculuk	yolculuk+Noun+A3sg+Pnon+Nom
@@ -22264,7 +22264,7 @@ kullanılıyor	kullan+Verb^DB+Verb+Pass+Pos+Prog1+A3sg
 .	.+Punct
 </S>
 <S id="3.75.7">
-Ancak	ancak+Adverb
+Ancak	ancak+Conj
 borsacılar	borsa+Noun+A3sg+Pnon+Nom^DB+Noun+Agt+A3pl+Pnon+Nom
 bu	bu+Det
 sorunu	sorun+Noun+A3sg+Pnon+Acc
@@ -22335,7 +22335,7 @@ olabilir	ol+Verb+Pos^DB+Verb+Able+Aor+A3sg
 .	.+Punct
 </S>
 <S id="3.78.29">
-Ancak	ancak+Adverb
+Ancak	ancak+Conj
 '	'+Punct
 akıllı	akıl+Noun+A3sg+Pnon+Nom^DB+Adj+With
 sayaç	sayaç+Noun+A3sg+Pnon+Nom
@@ -22931,7 +22931,7 @@ dediğini	de+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Acc
 Simülasyonlar	simülasyon+Noun+A3pl+Pnon+Nom
 sözkonusu	sözkonusu+Noun+A3sg+Pnon+Nom
 çoğunluğun	çoğunluk+Noun+A3sg+Pnon+Gen
-ancak	?
+ancak	ancak+Adverb
 DYP	Dyp+Noun+A3sg+Pnon+Nom
 ile	ile+Conj
 ANAP	Anap+Noun+A3sg+Pnon+Nom
@@ -23474,7 +23474,7 @@ kadınların	kadın+Noun+A3pl+Pnon+Gen
 hatta	hatta+Conj
 dişi	dişi+Adj
 hayvanların	hayvan+Noun+A3pl+Pnon+Gen
-bile	?
+bile	bile+Adverb
 giremediği	gir+Verb^DB+Verb+Able+Neg^DB+Adj+PastPart+P3sg
 Aynaroz	aynaroz+Noun+A3sg+Pnon+Nom
 Dağı	Dağ+Noun+A3sg+P3sg+Nom
@@ -24992,7 +24992,7 @@ sonraki	sonra+Postp+PCAbl^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+Rel
 bir	bir+Det
 otelin	otel+Noun+A3sg+Pnon+Gen
 kuru	kur+Noun+A3sg+P3sg+Nom
-ise	?
+ise	i+Verb+Pos+Cond+A3sg
 479	479+Num+Card
 bin	bin+Num+Card
 500	500+Num+Card
@@ -25189,7 +25189,7 @@ binası	bina+Noun+A3sg+P3sg+Nom
 <S id="3.165.7">
 Etiyopya'yı	Etiyopya+Noun+A3sg+Pnon+Acc
 gezenler	gez+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3pl+Pnon+Nom
-ise	?
+ise	i+Verb+Pos+Cond+A3sg
 ülkenin	ülke+Noun+A3sg+Pnon+Gen
 yeşilliği	yeşil+Adj^DB+Noun+Ness+A3sg+P3sg+Nom
 ,	,+Punct
@@ -25799,7 +25799,7 @@ planlıyorsunuz	planla+Verb+Pos+Prog1+A2pl
 ?	?+Punct
 </S>
 <S id="3.186.14">
-Son	?
+Son	son+Adj
 olarak	ol+Verb+Pos^DB+Adverb+ByDoingSo
 eserleri	eser+Noun+A3pl+P3sg+Nom
 Merck	merck+Noun+A3sg+Pnon+Nom
@@ -25831,7 +25831,7 @@ etmek	et+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
 </S>
 <S id="3.187.10">
 Birbirlerini	birbiri+Pron+Quant+A3pl+P3pl+Acc
-ise	?
+ise	i+Verb+Pos+Cond+A3sg
 neredeyse	?
 15	15+Num+Card
 senedir	sene+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
@@ -26722,7 +26722,7 @@ kurtuldu	kurtul+Verb+Pos+Past+A3sg
 </S>
 <S id="3.207.33">
 Kutluyorum	kutla+Verb+Pos+Prog1+A1sg
-Hiç	hiç+Noun+A3sg+Pnon+Nom
+Hiç	hiç+Adverb
 olmazsa	ol+Verb+Neg+Aor+Cond+A3sg
 görme	gör+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
 imkanımız	imkan+Noun+A3sg+P1pl+Nom
@@ -27637,7 +27637,7 @@ Ağar	Ağar+Noun+A3sg+Pnon+Nom
 ,	,+Punct
 CHP'ye	Chp+Noun+A3sg+Pnon+Dat
 yönelik	yönelik+Postp+PCDat
-ise	?
+ise	i+Verb+Pos+Cond+A3sg
 "	"+Punct
 İktidarın	iktidar+Noun+A3sg+Pnon+Gen
 karşıtlığı	karşıt+Adj^DB+Noun+Ness+A3sg+P3sg+Nom
@@ -28993,7 +28993,7 @@ yaşadıklarını	yaşa+Verb+Pos^DB+Noun+PastPart+A3pl+P3pl+Acc
 anlattıkça	anlat+Verb+Pos^DB+Adverb+AsLongAs
 bakıyorum	bak+Verb+Pos+Prog1+A1sg
 benimkilerle	ben+Pron+Pers+A1sg+Pnon+Gen^DB+Pron+Rel+A3pl+Pnon+Ins
-aynı	?
+aynı	aynı+Adj
 .	.+Punct
 </S>
 <S id="3.299.65">
@@ -29087,7 +29087,7 @@ hayvanlarla	hayvan+Noun+A3pl+Pnon+Ins
 geçinip	geçin+Verb+Pos^DB+Adverb+AfterDoingSo
 geçinemeyeceği	geçin+Verb^DB+Verb+Able+Neg^DB+Noun+FutPart+A3sg+P3sg+Nom
 konusunda	konu+Noun+A3sg+P3sg+Loc
-ise	?
+ise	i+Verb+Pos+Cond+A3sg
 karar	karar+Noun+A3sg+Pnon+Nom
 merciinin	merci+Noun+A3sg+P3sg+Gen
 aile	aile+Noun+A3sg+Pnon+Nom

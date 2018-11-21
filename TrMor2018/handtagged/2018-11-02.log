@@ -1,0 +1,125 @@
+6d946da 2018-11-02 unk counter script
+ccb6b9a 2017-12-27 ancak
+3104734 2017-12-27 ilk
+ae20a6f 2017-12-27 tek
+d75f0a7 2017-12-27 hiç
+0e23391 2017-12-27 aynı
+d488d06 2017-12-27 son
+a33678f 2017-12-27 bile
+64964bc 2017-12-27 tıklatın
+a8306a1 2017-12-27 ise
+bd90821 2017-12-27 büyük
+ef1656b 2017-12-27 ya
+281cb74 2017-12-27 iyi
+6dfd74e 2017-12-27 yeni
+8a57ef3 2017-12-27 ile
+7a59a8b 2017-12-27 gibi+Postp+PCGen
+d61097a 2017-12-27 için+Postp+PCGen
+734686c 2017-12-17 Print all lines.
+f5d2a95 2017-12-17 forms.pl for google forms tagging
+68dec3e 2017-10-27 Replaced with new tags if stem different but suffix identical.
+caa277b 2017-10-27 Fixed Dup tags.
+3b47329 2017-10-27 Fixed unknown punct
+3b9229b 2017-10-27 PUNCT -> Punct
+faff543 2017-10-26 Added back Prop, fixed capitalization.
+3e2ead2 2017-10-25 Merge pull request #16 from denizyuret/master
+9e9aa07 2017-10-25 filled 1130 illegal tags from model output
+68a3ae1 2017-10-24 Merge pull request #15 from denizyuret/master
+d8fbff5 2017-10-24 Fixed no-break space (U+00A0) problem.
+523339e 2017-10-23 Merge pull request #14 from ereday/modeltagging
+a2b3e3d 2017-10-22 Words Bu and O tagged with models prediction
+1c9e1b6 2017-10-16 Merge pull request #13 from ereday/unknown-format
+96da593 2017-10-16 unified unknown format
+789cdc6 2017-10-16 Merge pull request #12 from denizyuret/master
+705ca60 2017-10-16 740 instances tagged in gold2xml.corr where all 3 taggers agree.
+d9061d3 2017-10-09 Merge pull request #11 from ereday/old_unknowns_recovered
+43f91e9 2017-10-09 ones which we disagreed eliminated
+4af8cd8 2017-10-09 some recovered ones were correct. I manually select them
+26e1fe4 2017-10-09 There were question mark tagged words,which we overwrite,in the original goldxml. They should be left unknown. I convert them
+3ddcb36 2017-10-07 wrong_label updated
+04b4b44 2017-10-07 +Prop tag is removed from newanalyer file
+e3a1f90 2017-10-07 Merge pull request #9 from ereday/sets
+3632558 2017-10-07 Merge pull request #10 from denizyuret/master
+623a740 2017-10-07 Fixed capitalizations to match new tagger
+f84ca75 2017-10-07 Removing the +Prop tag
+0ae9e32 2017-10-07 misc gold2xml.corr fixes
+5d0747d 2017-10-07 Aor->AorPart, Narr->NarrPart
+558261e 2017-10-07 venn sets are added
+5fffe37 2017-10-06 Update README.md
+8bee398 2017-10-06 Add <s> </s> tagged version of same file
+e1f4c6d 2017-10-06 Add word per line version for charner output
+8995d6a 2017-10-06 Add charner tagging on onefile utf8 corr file
+90a1160 2017-10-06 nlptoolout files has alignment problem because I concatanated the output files(slices) in wrong order. I corrected them
+37422ec 2017-10-05 Update checkanalysis and wrongtoken files
+7e07eca 2017-10-05 debug
+87eaaae 2017-10-05 conflicts are resolved
+4052a23 2017-10-05 Merge pull request #7 from denizyuret/master
+c9f780c 2017-10-05 debug
+31520d2 2017-10-05 Fixed kullanabilirsiniz
+554657c 2017-10-05 suffix problem is corrected in the gold file too. Missing ones also corrected in onefile
+e1fa7ef 2017-10-05 Fixed güncelleştirmeleri
+bb5e070 2017-10-05 Adv -> Adverb
+0e91321 2017-10-05 there were some problems with i suffixes, most of them is encountered in compound nouns. Examples: +linenum:188752 word:veritabanı old_analysis:veritaban+Noun+A3sg+P3sg+Nom +linenum:368201 word:yılbaşı old_analysis:yılbaş+Noun+A3sg+P3sg+Nom +linenum:381891 word:İşadamları old_analysis:İşadam+Noun+Prop+A3pl+P3pl+Nom +linenum:388268 word:işadamı old_analysis:işadam+Noun+A3sg+P3sg+Nom +linenum:388915 word:yurtdışındaki old_analysis:yurtdış+Noun+A3sg+P3sg+Loc^DB+Adj+Rel +linenum:400816 word:yaratıcı old_analysis:yaratı+Noun+A3sg+Pnon+Nom^DB+Noun+Agt+A3sg+Pnon+Nom +linenum:401558 word:arapsaçı old_analysis:arapsaç+Noun+A3sg+P3sg+Nom +linenum:401963 word:zeytinyağı old_analysis:zeytinyağ+Noun+A3sg+P3sg+Nom +linenum:404886 word:Baltalimanı old_analysis:baltaliman+Noun+A3sg+P3sg+Nom +linenum:405242 word:ipuçları old_analysis:ipuç+Noun+A3pl+P3pl+Nom +linenum:383264 word:İşyeri old_analysis:İşyer+Noun+Prop+A3sg+P3sg+Nom +linenum:407363 word:yanıbaşındaki old_analysis:yanıbaş+Noun+A3sg+P3sg+Loc^DB+Adj+Rel +linenum:407464 word:Beypazarı old_analysis:beypazar+Noun+A3sg+P3sg+Nom +linenum:410223 word:Milletvekilleri old_analysis:Milletvekil+Noun+Prop+A3pl+P3pl+Nom +linenum:416965 word:başağrısı old_analysis:başağrı+Noun+A3sg+P3sg+Nom +linenum:419941 word:fotoğraflarımı old_analysis:fotoğrafla+Verb+Pos+Aor^DB+Adj+Zero^DB+Noun+Zero+A3sg+P1sg+Acc +linenum:427504 word:Tereyağını old_analysis:Tereyağ+Noun+Prop+A3sg+P3sg+Acc +linenum:427807 word:harcı old_analysis:har+Noun+A3sg+Pnon+Nom^DB+Noun+Agt+A3sg+Pnon+Nom +linenum:428991 word:ateşböcekleri old_analysis:ateşböcek+Noun+A3pl+P3pl+Nom +linenum:431696 word:Cemevi old_analysis:cemev+Noun+A3sg+P3sg+Nom +linenum:434155 word:cumhurbaşkanı old_analysis:cumhurbaşkan+Noun+A3sg+P3sg+Nom +linenum:435051 word:milletvekili old_analysis:milletvekil+Noun+A3sg+P3sg+Nom +linenum:439071 word:Orduevi old_analysis:Orduev+Noun+Prop+A3sg+P3sg+Nom +linenum:452948 word:gözdağı old_analysis:gözdağ+Noun+A3sg+P3sg+Nom +linenum:455053 word:işbirliği old_analysis:işbirlik+Noun+A3sg+P3sg+Nom +linenum:472110 word:kıskacı old_analysis:kıska+Noun+A3sg+Pnon+Nom^DB+Noun+Agt+A3sg+Pnon+Nom +linenum:474285 word:Buzdolabı old_analysis:buzdolab+Noun+A3sg+P3sg+Nom +linenum:479887 word:gözyaşları old_analysis:gözyaş+Noun+A3pl
+e9b489c 2017-10-05 Fixed sunucuya
+613edbb 2017-10-05 Fixed izni
+e6814e8 2017-10-05 +Narr^DB+Adj+Zero -> ^DB+Adj+NarrPart
+933631f 2017-10-05 +Aor^DB+Adj+Zero -> ^DB+Adj+AorPart
+911c618 2017-10-05 +Aor^DB+Adj+Zero -> ^DB+Adj+AorPart
+eb0abcf 2017-10-05 +Narr^DB+Adj+Zero -> ^DB+Adj+NarrPart
+4192e32 2017-10-05 bulabiliriz -> bul+Verb+Pos^DB+Verb+Able+Aor+A1pl instead of A3pl
+2c890d6 2017-10-05 giriş+Noun+A3sg+Pnon+Nom -> gir+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom
+6de7436 2017-10-05 Verb^DB+Verb+Pass+Pos+Aor^DB+Adj+Zero -> Verb^DB+Verb+Pass+Pos^DB+Adj+AorPart
+df00a0b 2017-10-05 merge
+72c5aca 2017-10-05 Verb+Pos+Aor^DB+Adj+Zero -> Verb+Pos^DB+Adj+AorPart
+7a661ad 2017-10-05 Merge pull request #5 from denizyuret/master
+61ec009 2017-10-05 çoğu+Adj -> çoğu+Det
+6accf44 2017-10-05 kullanıcılar -> kullan+Verb+Pos^DB+Noun+Agt+A3pl+Pnon+Nom
+18385c5 2017-10-05 Nom+A3sg+Pnon+Nom -> Noun+A3sg+Pnon+Nom
+0d0580b 2017-10-05 Verb+Neg+Aor^DB+Adj+Zero -> Verb+Neg^DB+Adj+AorPart
+16b94c9 2017-10-05 new UNKNOWN format
+96d50aa 2017-10-05 Update README.md
+67459bd 2017-10-05 Update README.md
+285f6a9 2017-10-05 readme
+d59146f 2017-10-05 remove unneccessary files
+9a11139 2017-10-05 nlp tool outputs
+6b6f3bb 2017-10-05 Merge branch 'master' of github.com:ereday/ELDA
+72c50b2 2017-10-05 Fix verb+pos+narr^db+adj+zero tags
+9772eba 2017-10-05 merged with NamedEntityRecognition
+6049b78 2017-10-04 Fix problems in lemma of some analysis
+8cea62d 2017-10-04 Fix first letter case issue in lemma
+3a85559 2017-10-04 Replace Nar to NarrPart in  some analysis
+c52fd5b 2017-10-04 Change analysis of Yazici
+5fcca7c 2017-10-04 Change A3pl to A1pl in some analyses
+77cfbca 2017-10-04 Remove Prob tag in some safe cases
+0600aa7 2017-10-04 Merge branch 'master' of github.com:ereday/ELDA
+5b529d0 2017-10-04 Add Neg tag to analysis of word degilse
+74bbbd7 2017-10-04 histogram debug
+843c052 2017-10-04 Change A3pl to A1pl in some parses
+6966062 2017-10-04 Remove prop tag special mismatching
+a4ce36f 2017-10-03 Second part of Fix instances with swapped tags
+82731e3 2017-10-03 Fix instances with swapped tags
+a03677c 2017-10-03 clean up
+f132b22 2017-10-03 histogram for parses, getSentence.jl to get sentence of a word by its line number
+bbb9136 2017-10-03 Add Prop tag to  Türkiye analysis
+dcc1e4e 2017-10-03 Add Neg tag to değildi analysis
+0cc02de 2017-10-03  Switch A3sg and Cop tag places in vardır
+fe3812b 2017-10-03 Add Neg tag to değil analysis
+45f27cd 2017-10-03 Merge pull request #4 from ereday/histogram
+2ae7a7b 2017-10-03 histogram creator
+91544d1 2017-10-03 Use older analyzer tags if newer one produce only UNKNOWN
+d977382 2017-10-02 Merge pull request #3 from ereday/check_analysis
+060053a 2017-10-02 wrong labels updated
+3720dc6 2017-10-02 check anlaysis: .., *, ** words added to ignored words; code is able to run with file arguments
+9a44689 2017-10-02 Replace unambiguous words with new tags
+f01fee6 2017-10-02 Change Ord tag to Card tag in ordinal numbers
+e6b5875 2017-10-02 Rename wrong tokens file
+9769dc9 2017-10-02 Fix triple dot tags
+73bb9a0 2017-10-02 Minor change to remove dublicate reports
+893cc19 2017-10-02 Change punctuation tag from Punc to Punct
+e7ce78b 2017-10-02 Add files tag with new analyzer put wrong token list
+0374f05 2017-10-02 Add scripts for new/old versions of Analyzer
+8231854 2017-10-02 Convert onefile.utf8.corr to original version
+895ab42 2017-10-02 Merge pull request #1 from ereday/discarder
+19dca4d 2017-10-02 Discarding identical sentences from onefile
+c5061c3 2017-10-02 Add original elda files
+264a9d1 2017-10-02 Initial commit
