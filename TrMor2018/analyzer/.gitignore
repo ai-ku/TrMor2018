@@ -1,0 +1,13 @@
+basic-script.txt
+lookup
+plain_data.out
+test-script.txt
+tfeaturesulx.fst
+tfeaturesulx-len.fst
+tguesser-1.fst
+tguesser-2.fst
+tnumbers-utf8-1.fst
+tnumbers-utf8-2.fst
+tpunct.fst
+uniq-unknown-words.txt
+unknown.fst
