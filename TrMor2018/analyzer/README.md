@@ -49,3 +49,14 @@ rahatlattı rahatla+Verb^DB+Verb+Caus+Pos+Past+A3sg
 Geçen geç+Verb+Pos^DB+Adj+PresPart geçe+Postp+PCNom^DB+Noun+Zero+A3sg+P2sg+Nom Geçen+Noun+Prop+A3sg+Pnon+Nom geçen+Adj
 ```
 
+**Merge files**
+```
+make foo.train.merge
+make foo.gold.merge
+```
+
+Use the commands in Makefile to attempt to create a merge file (a file with the word
+followed by all tags produced by the tagger, the first one being the correct choice). Note
+that if the tagger does not produce the "correct" tag, the merge.pl script will list the
+correct tag followed by all the tagger output tags followed by "NOTFOUND". Once we resolve
+all NOTFOUND cases we will replace trmor2018.train and trmor2018.gold with the merge files.
