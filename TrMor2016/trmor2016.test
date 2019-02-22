@@ -15344,7 +15344,7 @@ TEAŞ Teaş+Noun+Prop+A3sg+Pnon+Nom teaş+Noun+A3sg+Pnon+Nom
 ) )+Punc
 tarafından taraf+Noun+A3sg+P3sg+Abl taraf+Noun+A3sg+P2sg+Abl
 Kalyoncu Kalyoncu+Noun+Prop+A3sg+Pnon+Nom kalyon+Noun+A3sg+Pnon+Nom^DB+Noun+Agt+A3sg+Pnon+Nom kalyon+Noun+A3sg+Pnon+Nom^DB+Adj+Agt
-Şirketler Şirket+Noun+Prop+A3pl+Pnon+Nom  şirket+Noun+A3pl+Pnon+Nom
+Şirketler Şirket+Noun+Prop+A3pl+Pnon+Nom şirket+Noun+A3pl+Pnon+Nom
 Topluluğu'na Topluluk+Noun+Prop+A3sg+P3sg+Dat
 verilen ver+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart veri+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
 12 12+Num+Card
@@ -16505,7 +16505,7 @@ Gönül Gönül+Noun+Prop+A3sg+Pnon+Nom gönül+Noun+A3sg+Pnon+Nom
 Yazar Yazar+Noun+Prop+A3sg+Pnon+Nom yazar+Noun+A3sg+Pnon+Nom yaz+Verb+Pos+Aor+A3sg yaz+Verb+Pos+Aor^DB+Adj+Zero^DB+Noun+Zero+A3sg+Pnon+Nom
 Bir bir+Det Bir+Noun+Prop+A3sg+Pnon+Nom bir+Adverb bir+Num+Card bir+Adj
 Demet demet+Noun+A3sg+Pnon+Nom Demet+Noun+Prop+A3sg+Pnon+Nom
-Yasemen yasemen+Noun+A3sg+Pnon+Nom  Yasemen+Noun+Prop+A3sg+Pnon+Nom
+Yasemen yasemen+Noun+A3sg+Pnon+Nom Yasemen+Noun+Prop+A3sg+Pnon+Nom
 ( (+Punc
 Nihavend nihavend+Noun+A3sg+Pnon+Nom
 ) )+Punc
