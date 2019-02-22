@@ -3,17 +3,17 @@ use strict;
 #my $cwd=`pwd`;
 #chdir "/ai/home/dyuret/mor/2017/oflazer20171031";
 my $word;
-my @parses;
+my %parses;
 open(FP, 'lookup -f test-script.txt |') or die $!;
 while(<FP>) {
     if (/^\s*$/) {
 	next if not defined $word;
-	my $line = join(" ", $word, @parses);
+	my $line = join("\t", $word, keys(%parses));
 	$line =~ s/Punc$/Punct/;
-	$line =~ s/^(\pP+) \*UNKNOWN\*$/$1 $1+Punct/;
+	$line =~ s/^(\pP+)\t\*UNKNOWN\*$/$1\t$1+Punct/;
 	print "$line\n";
 	undef $word;
-	undef @parses;
+	undef %parses;
     } elsif (/^</) {
 	my ($a,$b) = split(/[\t\r\n]/);
 	die unless $a eq $b;
@@ -34,7 +34,7 @@ while(<FP>) {
 	}
 	$word = $w if not defined $word;
 	die "Bad word [$_]" if $w ne $word;
-	push @parses, $p;
+	$parses{$p} = 1;
     }
 }
 close(FP);
