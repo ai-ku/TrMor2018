@@ -1,0 +1,14 @@
+2019-02-22  dyuret  <dyuret@balina.ku.edu.tr>
+
+	* trmor2018.train: Converted into merge format (word followed by
+	all tags, first one correct), with tags compatible with latest
+	analyzer. Some stats:
+
+	530805	Total lines
+	460669	Non-xml lines (tokens)
+	707	*UNKNOWN* in old version
+	1779	*UNKNOWN* in new version
+	2963	Number of correct tags changed from old to new
+
+	$ cut -f1,2 new-version > foo12
+	$ diff -y --suppress-common-lines old-version foo12 | wc -l
