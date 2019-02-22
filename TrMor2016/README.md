@@ -1,5 +1,3 @@
-* trmor2016.test: Should be the same file as https://github.com/erayyildiz/Neural-Morphological-Disambiguation-for-Turkish/blob/master/data/Morph.Dis.Test.Hand.Labeled-20K.txt
-
 Test set used in the following paper which used the same training set as TrMor2006.
 ```
 @paper{AAAI1612370,
@@ -10,3 +8,5 @@ Test set used in the following paper which used the same training set as TrMor20
   url = {https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12370}
 }
 ```
+
+trmor2016.test: Should be the same file as [https://github.com/erayyildiz/Neural-Morphological-Disambiguation-for-Turkish/blob/master/data/Morph.Dis.Test.Hand.Labeled-20K.txt].

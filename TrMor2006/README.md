@@ -27,7 +27,8 @@ $ md5sum *
 050045226aa798d1a45c3e643ebebb99  test.1.2.dis.gz
 ```
 
-The train data was semi-automatically tagged with relatively low accuracy, the test data was
+These are available at [http://www.denizyuret.com/2006/11/turkish-resources.html].  The
+train data was semi-automatically tagged with relatively low accuracy, the test data was
 hand-tagged but small. To test the disambiguator in [HLT06] we generated all alternative
 tags using Xerox Finite State Tool (XFST) and Oflazer's FST circa Dec 2005:
 
