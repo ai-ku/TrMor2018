@@ -30,8 +30,8 @@ tag. Lines that start with `<` are XML tags indicating sentence and document bou
 `trmor2018.train` is verified to have 97%+ accuracy using `handtagged/trmor2018.gold`, a
 subset that was manually annotated by two annotators with differences adjudicated by a
 third. **Please do not copy any data between trmor2018.train and trmor2018.gold in future
-versions**, otherwise we lose our ability to measure accuracy using an independently tagged
-reference.
+versions and do not use trmor2018.gold for training or testing models**, otherwise we lose
+our ability to measure accuracy using an independently tagged reference.
 
 The analyses were produced by a newer version of Kemal Oflazer's finite state transducers
 circa 2018 for Turkish morphological analysis, and [xfst](http://www.fsmbook.com) the Xerox
