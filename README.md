@@ -33,7 +33,7 @@ word<tab>tag1<tab>tag2...
 The first analysis (tag1) is the correct one. When none of the analyses were deemed correct,
 tag1 is '?' and the other tags are printed in a random order.
 
-`trmor2018.train` is verified to have 97%+ accuracy using `handtagged/trmor2018.gold`, a
+`trmor2018.train` is verified to have 95.56% accuracy using `handtagged/trmor2018.gold`, a
 subset that was manually annotated by two annotators with differences adjudicated by a
 third. **Please do not copy any data between trmor2018.train and trmor2018.gold in future
 versions and do not use trmor2018.gold for training or testing models**, otherwise we lose
