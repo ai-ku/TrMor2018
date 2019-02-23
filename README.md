@@ -23,9 +23,15 @@ New Turkish morphology dataset based on mixed genre text used in the following p
 `trmor2018.train` was semiautomatically annotated, randomly split (80-10-10%) five times and
 the average scores were reported in the paper. 
 
-The data format is one word per line, followed by all possible analyses separated by
-whitespace, the first one being correct. Unknown words are followed by a single `*UNKNOWN*`
-tag. Lines that start with `<` are XML tags indicating sentence and document boundaries.
+The lines in the file are either XML tags indicating sentence and document boundaries, or
+contain tab-separated analyses for a single word:
+
+```
+word<tab>tag1<tab>tag2...
+```
+
+The first analysis (tag1) is the correct one. When none of the analyses were deemed correct,
+tag1 is '?' and the other tags are printed in a random order.
 
 `trmor2018.train` is verified to have 97%+ accuracy using `handtagged/trmor2018.gold`, a
 subset that was manually annotated by two annotators with differences adjudicated by a

@@ -719,7 +719,7 @@ Av	Av+Noun+Prop+A3sg+Pnon+Nom	av+Noun+A3sg+Pnon+Nom
 -	-+Punct
 ru	?	ru+Noun+A3sg+Pnon+Nom
 -	-+Punct
-pa'da	*UNKNOWN*
+pa'da	?	*UNKNOWN*
 bir	bir+Det	bir+Num+Card	bir+Adverb	bir+Adj
 de	de+Conj	de+Verb+Pos+Imp+A2sg
 kont	kont+Noun+A3sg+Pnon+Nom
@@ -1487,7 +1487,7 @@ diyorum	de+Verb+Pos+Prog1+A1sg
 sana	sen+Pron+Pers+A2sg+Pnon+Dat	san+Verb+Pos+Opt+A3sg	san+Noun+A3sg+Pnon+Dat
 ,	,+Punct
 yat	yat+Verb+Pos+Imp+A2sg	yat+Noun+A3sg+Pnon+Nom
-aşağı!"diyerek	*UNKNOWN*
+aşağı!"diyerek	?	*UNKNOWN*
 sürekli	sürekli+Adverb	sürek+Noun+A3sg+Pnon+Nom^DB+Adj+With
 uyarıyordu	uyar+Verb+Pos+Prog1+Past+A3sg
 Beyaz	Beyaz+Noun+Prop+A3sg+Pnon+Nom	beyaz+Adj
@@ -2105,7 +2105,7 @@ ki	ki+Conj
 ?	?+Punct
 </S>
 <S id="1.4.79">
-Petersburg'taki	*UNKNOWN*
+Petersburg'taki	?	*UNKNOWN*
 herkes	herkes+Noun+A3sg+Pnon+Nom	herkes+Pron+Quant+A3pl+Pnon+Nom
 ya	ya+Conj	ya+Interj
 yazlıklarına	yazlık+Noun+A3pl+P3pl+Dat	yaz+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+P2sg+Dat	yazlık+Noun+A3sg+P3pl+Dat	yaz+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+P3pl+Dat	yazlık+Noun+A3pl+P3sg+Dat	yaz+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+P3sg+Dat	yazlık+Noun+A3pl+P2sg+Dat	yaz+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3pl+Dat
@@ -3191,7 +3191,7 @@ bahsediyordunuz	bahset+Verb+Pos+Prog1+Past+A2pl
 !	!+Punct
 "	"+Punct
 dedi	de+Verb+Pos+Past+A3sg
-Joe'ya	*UNKNOWN*
+Joe'ya	?	*UNKNOWN*
 dönüp	dön+Verb+Pos^DB+Adverb+AfterDoingSo
 .	.+Punct
 "	"+Punct
@@ -3628,12 +3628,12 @@ Belki	belki+Adverb
 de	de+Conj	de+Verb+Pos+Imp+A2sg
 daha	daha+Adverb	daha+Noun+A3sg+Pnon+Nom
 önce	önce+Adverb	önce+Postp+PCAbl	önce+Noun+A3sg+Pnon+Nom
-Joe'ya	*UNKNOWN*
+Joe'ya	?	*UNKNOWN*
 itiraf	itiraf+Noun+A3sg+Pnon+Nom
 ettiğim	et+Verb+Pos^DB+Adj+PastPart+P1sg	et+Verb+Pos^DB+Noun+PastPart+A3sg+P1sg+Nom
 saçmalıklar	saçmalık+Noun+A3pl+Pnon+Nom	saçmalık+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl	saçma+Adj^DB+Noun+Ness+A3pl+Pnon+Nom	saçma+Adj^DB+Noun+Ness+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl	saçma+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+Pnon+Nom	saçma+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
 olmasaydı	ol+Verb+Neg+Desr+Past+A3sg
-Joe'ya	*UNKNOWN*
+Joe'ya	?	*UNKNOWN*
 o	o+Det	o+Pron+Demons+A3sg+Pnon+Nom	o+Noun+A3sg+Pnon+Nom	o+Pron+Pers+A3sg+Pnon+Nom
 solgun	solgun+Adj
 gençten	genç+Noun+A3sg+Pnon+Abl	genç+Adj^DB+Noun+Zero+A3sg+Pnon+Abl
@@ -4836,11 +4836,11 @@ de	de+Conj	de+Verb+Pos+Imp+A2sg
 </S>
 <S id="1.9.265">
 Bayan	Bayan+Noun+Prop+A3sg+Pnon+Nom	bayan+Noun+A3sg+Pnon+Nom
-Joe'yu	*UNKNOWN*
+Joe'yu	?	*UNKNOWN*
 soyacağım	soy+Verb+Pos^DB+Noun+FutPart+A3sg+P1sg+Nom	soy+Verb+Pos+Fut+A1sg	soy+Verb+Pos^DB+Adj+FutPart+P1sg
 fikri	fikir+Noun+A3sg+P3sg+Nom	fikir+Noun+A3sg+Pnon+Acc	fikri+Adj
 -	-+Punct
-Joe'yu	*UNKNOWN*
+Joe'yu	?	*UNKNOWN*
 soyacağımı	soy+Verb+Pos^DB+Noun+FutPart+A3sg+P1sg+Acc
 hiç	hiç+Adverb	hiç+Noun+A3sg+Pnon+Nom
 düşünmedim	düşün+Verb+Neg+Past+A1sg
@@ -5063,7 +5063,7 @@ kuzenleriyle	kuzen+Noun+A3pl+P3sg+Ins	kuzen+Noun+A3pl+P3pl+Ins	kuzen+Noun+A3sg+P
 ,	,+Punct
 özellikle	özellikle+Adverb	özellik+Noun+A3sg+Pnon+Ins
 de	de+Conj	de+Verb+Pos+Imp+A2sg
-Darcy'yle	*UNKNOWN*
+Darcy'yle	?	*UNKNOWN*
 konuşurken	konuş+Verb+Pos+Aor^DB+Adverb+While
 adeta	adeta+Adverb
 dalıp	dal+Verb+Pos^DB+Adverb+AfterDoingSo
@@ -5532,7 +5532,7 @@ olarak	ol+Verb+Pos^DB+Adverb+ByDoingSo
 Sen	sen+Pron+Pers+A2sg+Pnon+Nom
 -	-+Punct
 Toma	Toma+Noun+Prop+A3sg+Pnon+Nom
-d'Aken	*UNKNOWN*
+d'Aken	?	*UNKNOWN*
 kilisesinden	kilise+Noun+A3sg+P3sg+Abl
 çıksın	çık+Verb+Pos+Imp+A3sg
 da	da+Conj
@@ -5752,7 +5752,7 @@ zahmet	zahmet+Noun+A3sg+Pnon+Nom
 "	"+Punct
 </S>
 <S id="1.12.103">
-Portsmouth'dan	*UNKNOWN*
+Portsmouth'dan	?	*UNKNOWN*
 Londra'dan	Londra+Noun+Prop+A3sg+Pnon+Abl
 birine	biri+Pron+Quant+A3sg+P3sg+Dat	bir+Adj^DB+Noun+Zero+A3sg+P3sg+Dat	bir+Adj^DB+Noun+Zero+A3sg+P2sg+Dat	bir+Num+Card^DB+Noun+Zero+A3sg+P3sg+Dat
 mektup	mektup+Noun+A3sg+Pnon+Nom
@@ -5924,7 +5924,7 @@ Bu	bu+Det	bu+Pron+Demons+A3sg+Pnon+Nom
 saatten	saat+Noun+A3sg+Pnon+Abl
 sonra	sonra+Postp+PCAbl	sonra+Adverb	sonra+Noun+A3sg+Pnon+Nom
 artık	artık+Adverb	artık+Noun+A3sg+Pnon+Nom	artık+Adj
-Joe'nun	*UNKNOWN*
+Joe'nun	?	*UNKNOWN*
 yanına	yan+Noun+A3sg+P3sg+Dat	yan+Noun+A3sg+P2sg+Dat
 gidemezdim	git+Verb^DB+Verb+Able+Neg+Aor+Past+A1sg	git+Verb^DB+Verb+Able+Neg^DB+Adj+AorPart^DB+Verb+Zero+Past+A1sg
 .	.+Punct
@@ -6124,7 +6124,7 @@ beter	beter+Adj
 .	.+Punct
 </S>
 <S id="1.12.485">
-Herbert'ı	*UNKNOWN*
+Herbert'ı	?	*UNKNOWN*
 görünce	gör+Verb+Pos^DB+Adverb+When
 onu	o+Pron+Pers+A3sg+Pnon+Acc	o+Pron+Demons+A3sg+Pnon+Acc	on+Num+Card^DB+Noun+Zero+A3sg+Pnon+Acc	on+Num+Card^DB+Noun+Zero+A3sg+P3sg+Nom
 gözü	göz+Noun+A3sg+P3sg+Nom	göz+Noun+A3sg+Pnon+Acc
@@ -6356,7 +6356,7 @@ görünüyordu	görün+Verb+Pos+Prog1+Past+A3sg
 <S id="1.13.94">
 Arkadaşın	arkadaş+Noun+A3sg+P2sg+Nom	arkadaş+Noun+A3sg+Pnon+Gen
 Madam	madam+Noun+A3sg+Pnon+Nom
-Forestier'ye	*UNKNOWN*
+Forestier'ye	?	*UNKNOWN*
 git	git+Verb+Pos+Imp+A2sg
 ve	ve+Conj
 onun	o+Pron+Pers+A3sg+Pnon+Gen	o+Noun+A3sg+Pnon+Gen	on+Num+Card^DB+Noun+Zero+A3sg+Pnon+Gen	o+Pron+Demons+A3sg+Pnon+Gen
@@ -6415,7 +6415,7 @@ bir	bir+Det	bir+Num+Card	bir+Adverb	bir+Adj
 halde	hal+Noun+A3sg+Pnon+Loc
 titreye	titre+Verb+Pos+Opt+A3sg
 titreye	titre+Verb+Pos+Opt+A3sg
-Seine'e	*UNKNOWN*
+Seine'e	?	*UNKNOWN*
 doğru	doğru+Postp+PCDat	doğru+Noun+A3sg+Pnon+Nom	doğru+Adj
 iniyorlardı	in+Verb+Pos+Prog1+A3pl+Past
 .	.+Punct
@@ -6665,7 +6665,7 @@ etmişti	et+Verb+Pos+Narr+Past+A3sg	et+Verb+Pos^DB+Adj+NarrPart^DB+Verb+Zero+Pas
 .	.+Punct
 </S>
 <S id="1.13.382">
-Épreville'de	*UNKNOWN*
+Épreville'de	?	*UNKNOWN*
 hancılık	hancı+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
 yapan	yap+Verb+Pos^DB+Adj+PresPart
 Chicot	chicot+Noun+A3sg+Pnon+Nom
@@ -8847,7 +8847,7 @@ kurulabilir	kur+Verb^DB+Verb+Pass+Pos^DB+Verb+Able+Aor+A3sg	kur+Verb^DB+Verb+Pas
 <S id="1.17.73">
 Tolstoy	Tolstoy+Noun+Prop+A3sg+Pnon+Nom
 20.	20+Num+Card
-yy.'ın	*UNKNOWN*
+yy.'ın	?	*UNKNOWN*
 Gorki	gorki+Noun+A3sg+Pnon+Nom
 gibi	gibi+Postp+PCNom	gibi+Postp+PCGen
 Rus	Rus+Noun+Prop+A3sg+Pnon+Nom	rus+Noun+A3sg+Pnon+Nom	rus+Adj
@@ -12202,7 +12202,7 @@ bırakır	bırak+Verb+Pos+Aor+A3sg	bırak+Verb+Pos^DB+Adj+AorPart
 Yazdırma	yaz+Verb^DB+Verb+Caus+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom	yaz+Verb^DB+Verb+Caus+Neg+Imp+A2sg
 Yöneticisi	yönetici+Noun+A3sg+P3sg+Nom	yönet+Verb+Pos^DB+Adj+Agt^DB+Adj+JustLike	yönet+Verb+Pos^DB+Noun+Agt+A3sg+Pnon+Nom^DB+Adj+JustLike	yönetici+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike	yönet+Verb+Pos^DB+Noun+Agt+A3sg+P3sg+Nom
 (	(+Punct
-Printmanagement.msc	*UNKNOWN*
+Printmanagement.msc	?	*UNKNOWN*
 )	)+Punct
 ,	,+Punct
 yazdırma	yaz+Verb^DB+Verb+Caus+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom	yaz+Verb^DB+Verb+Caus+Neg+Imp+A2sg
@@ -12244,7 +12244,7 @@ Uygulama	uygulama+Noun+A3sg+Pnon+Nom	uygula+Verb+Neg+Imp+A2sg	uygula+Verb+Pos^DB
 örneği	örnek+Noun+A3sg+P3sg+Nom	örnek+Noun+A3sg+Pnon+Acc
 tarafından	taraf+Noun+A3sg+P3sg+Abl	taraf+Noun+A3sg+P2sg+Abl
 okunan	oku+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
-ve/veya	*UNKNOWN*
+ve/veya	?	*UNKNOWN*
 yazılan	yaz+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
 dosya	dosya+Noun+A3sg+Pnon+Nom
 .	.+Punct
@@ -12560,7 +12560,7 @@ vardır	var+Adj^DB+Verb+Zero+Pres+A3sg+Cop	var+Verb^DB+Verb+Caus+Pos+Imp+A2sg
 <S id="2.1.2021">
 Örneğin	örneğin+Conj	örnek+Noun+A3sg+Pnon+Gen	örnek+Noun+A3sg+P2sg+Nom
 ,	,+Punct
-Temp.dat	*UNKNOWN*
+Temp.dat	?	*UNKNOWN*
 dosyası	dosya+Noun+A3sg+P3sg+Nom	dosya+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
 için	için+Postp+PCNom	iç+Noun+A3sg+P2sg+Nom	için+Postp+PCGen	iç+Noun+A3sg+Pnon+Gen	iç+Verb+Pos+Imp+A2pl
 yerleşik	yerleşik+Adj
@@ -14171,7 +14171,7 @@ ilişkili	ilişki+Noun+A3sg+Pnon+Nom^DB+Adj+With
 olan	ol+Verb+Pos^DB+Adj+PresPart
 ve	ve+Conj
 Active	activ+Noun+A3sg+Pnon+Dat
-Directory'de	*UNKNOWN*
+Directory'de	?	*UNKNOWN*
 yayımlanmış	?	yayımla+Verb^DB+Verb+Pass+Pos+Narr+A3sg	yayımla+Verb^DB+Verb+Pass+Pos^DB+Adj+NarrPart
 olan	ol+Verb+Pos^DB+Adj+PresPart
 sertifikalar	sertifika+Noun+A3pl+Pnon+Nom	sertifika+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
@@ -15286,7 +15286,7 @@ Seçim	Seçim+Noun+Prop+A3sg+Pnon+Nom	seçi+Noun+A3sg+P1sg+Nom	seçim+Noun+A3sg+
 düğmesini	düğme+Noun+A3sg+P3sg+Acc
 ,	,+Punct
 Boşluk	Boşluk+Noun+Prop+A3sg+Pnon+Nom	boşluk+Noun+A3sg+Pnon+Nom	boş+Adj^DB+Noun+Ness+A3sg+Pnon+Nom
-Ekle/Kaldır	*UNKNOWN*
+Ekle/Kaldır	?	*UNKNOWN*
 ve	ve+Conj
 Bayrak	Bayrak+Noun+Prop+A3sg+Pnon+Nom	bayrak+Noun+A3sg+Pnon+Nom
 düğmesini	düğme+Noun+A3sg+P3sg+Acc
@@ -16997,7 +16997,7 @@ alır	al+Verb+Pos+Aor+A3sg	al+Verb+Pos^DB+Adj+AorPart
 bölmesinde	bölme+Noun+A3sg+P3sg+Loc	böl+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Loc
 veya	veya+Conj
 film	film+Noun+A3sg+Pnon+Nom
-şeridinde/zaman	*UNKNOWN*
+şeridinde/zaman	?	*UNKNOWN*
 çizelgesinde	çizelge+Noun+A3sg+P3sg+Loc
 özelliklerini	özellik+Noun+A3pl+P3sg+Acc	özellik+Noun+A3pl+P2sg+Acc	özellik+Noun+A3sg+P3pl+Acc	özellik+Noun+A3pl+P3pl+Acc
 görmek	gör+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
@@ -17189,7 +17189,7 @@ sürükleyin	sürükle+Verb+Pos+Imp+A2pl
 <S id="2.1.5023">
 Araç	araç+Noun+A3sg+Pnon+Nom	Araç+Noun+Prop+A3sg+Pnon+Nom
 çubuğunda	çubuk+Noun+A3sg+P3sg+Loc	çubuk+Noun+A3sg+P2sg+Loc
-Üst/Alt	*UNKNOWN*
+Üst/Alt	?	*UNKNOWN*
 Öğeleri	öğe+Noun+A3pl+Pnon+Acc	Öğe+Noun+Prop+A3pl+P3sg+Nom	öğe+Noun+A3pl+P3sg+Nom	öğe+Noun+A3pl+P3pl+Nom	öğe+Noun+A3sg+P3pl+Nom
 Göster'i	Göster+Noun+Prop+A3sg+Pnon+Acc	Göster+Noun+Prop+A3sg+P3sg+Nom
 /	/+Punct
@@ -17636,7 +17636,7 @@ sayıdır	sayı+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3sg+Cop
 .	.+Punct
 </S>
 <S id="2.1.5366">
-Defender'ı	*UNKNOWN*
+Defender'ı	?	*UNKNOWN*
 açmak	aç+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
 için	için+Postp+PCNom	iç+Noun+A3sg+P2sg+Nom	için+Postp+PCGen	iç+Noun+A3sg+Pnon+Gen	iç+Verb+Pos+Imp+A2pl
 tıklatın	tıklat+Verb+Pos+Imp+A2pl	tıkla+Verb^DB+Verb+Caus+Pos+Imp+A2pl
@@ -18136,7 +18136,7 @@ gerekir	gerek+Verb+Pos+Aor+A3sg	gerek+Verb+Pos^DB+Adj+AorPart
 Yazdırma	yaz+Verb^DB+Verb+Caus+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom	yaz+Verb^DB+Verb+Caus+Neg+Imp+A2sg
 Yöneticisi'yle	Yönetici+Noun+Prop+A3sg+P3sg+Ins	yönet+Verb+Pos^DB+Noun+Agt+A3sg+P3sg+Prop+Ins	Yönetici+Noun+A3sg+P3sg+Prop+Ins	yönet+Verb+Pos^DB+Noun+Agt+Prop+A3sg+P3sg+Ins
 (	(+Punct
-Printmanagement.msc	*UNKNOWN*
+Printmanagement.msc	?	*UNKNOWN*
 )	)+Punct
 varsayılan	varsay+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
 iki	iki+Num+Card
@@ -19996,7 +19996,7 @@ yemekte	yemek+Noun+A3sg+Pnon+Loc	ye+Verb+Pos+Prog2+A3sg	ye+Verb+Pos^DB+Noun+Inf1
 olacak	ol+Verb+Pos+Fut+A3sg	ol+Verb+Pos^DB+Adj+FutPart+Pnon
 ya	ya+Conj	ya+Interj
 da	da+Conj
-lobby'de	*UNKNOWN*
+lobby'de	?	*UNKNOWN*
 ,	,+Punct
 oyun	oyun+Noun+A3sg+Pnon+Nom	oy+Verb+Pos+Imp+A2pl	oy+Noun+A3sg+Pnon+Gen	oy+Noun+A3sg+P2sg+Nom
 salonunda	salon+Noun+A3sg+P3sg+Loc	salon+Noun+A3sg+P2sg+Loc
@@ -20358,7 +20358,7 @@ açıklamada	açıkla+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Loc
 Bandırma	Bandırma+Noun+Prop+A3sg+Pnon+Nom	ban+Verb^DB+Verb+Caus+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom	ban+Verb^DB+Verb+Caus+Neg+Imp+A2sg
 Gübre	gübre+Noun+A3sg+Pnon+Nom
 Fabrikaları	fabrika+Noun+A3pl+P3sg+Nom	fabrika+Noun+A3pl+P3pl+Nom	fabrika+Noun+A3sg+P3pl+Nom	fabrika+Noun+A3pl+Pnon+Acc
-A.Ş'nin	*UNKNOWN*
+A.Ş'nin	?	*UNKNOWN*
 yeni	yeni+Adj	yen+Noun+A3sg+P3sg+Nom	yen+Noun+A3sg+Pnon+Acc
 fabrikalarının	fabrika+Noun+A3pl+P3sg+Gen	fabrika+Noun+A3pl+P2sg+Gen	fabrika+Noun+A3pl+P3pl+Gen	fabrika+Noun+A3sg+P3pl+Gen
 açılış	aç+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom
@@ -20648,7 +20648,7 @@ sermayeye	sermaye+Noun+A3sg+Pnon+Dat
 teşvik	teşvik+Noun+A3sg+Pnon+Nom
 verilmesinden	ver+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P3sg+Abl
 yana	yana+Postp+PCAbl	yan+Noun+A3sg+Pnon+Dat	yan+Verb+Pos+Opt+A3sg
-Mumcu'nın	*UNKNOWN*
+Mumcu'nın	?	*UNKNOWN*
 sıcak	sıcak+Adj
 baktığı	bak+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom	bak+Verb+Pos^DB+Adj+PastPart+P3sg
 bildirildi	bil+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos+Past+A3sg
@@ -20906,10 +20906,10 @@ olacaksınız	ol+Verb+Pos+Fut+A2pl
 .	.+Punct
 </S>
 <S id="3.35.35">
-Camp's	*UNKNOWN*
+Camp's	?	*UNKNOWN*
 Bay	Bay+Noun+Prop+A3sg+Pnon+Nom	bay+Noun+A3sg+Pnon+Nom
 Cape	cape+Noun+A3sg+Pnon+Nom
-Town'ın	*UNKNOWN*
+Town'ın	?	*UNKNOWN*
 hareketliliği	hareket+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Ness+A3sg+P3sg+Nom	hareket+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Ness+A3sg+Pnon+Acc
 ve	ve+Conj
 canlılığıyla	canlı+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Ins	can+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Ness+A3sg+P3sg+Ins
@@ -21343,7 +21343,7 @@ bakılmıyor	bak+Verb^DB+Verb+Pass+Neg+Prog1+A3sg
 Hürriyet	Hürriyet+Noun+Prop+A3sg+Pnon+Nom	hürriyet+Noun+A3sg+Pnon+Nom
 5	5+Num+Card
 eksikli	eksik+Noun+A3sg+Pnon+Nom^DB+Adj+With
-G.Saray	*UNKNOWN*
+G.Saray	?	*UNKNOWN*
 ,	,+Punct
 Trabzon	Trabzon+Noun+Prop+A3sg+Pnon+Nom
 engelini	engel+Noun+A3sg+P3sg+Acc	engel+Noun+A3sg+P2sg+Acc
@@ -21413,7 +21413,7 @@ defasında	defa+Noun+A3sg+P3sg+Loc
 ``	``+Punct
 Derya	Derya+Noun+Prop+A3sg+Pnon+Nom	derya+Adj
 artık	artık+Adverb	artık+Noun+A3sg+Pnon+Nom	artık+Adj
-bitti''diyenleri	*UNKNOWN*
+bitti''diyenleri	?	*UNKNOWN*
 utandırmaktan	utan+Verb^DB+Verb+Caus+Pos^DB+Noun+Inf1+A3sg+Pnon+Abl
 büyük	büyük+Adj
 keyif	keyif+Noun+A3sg+Pnon+Nom
@@ -21948,7 +21948,7 @@ kadar	kadar+Noun+A3sg+Pnon+Nom	kadar+Postp+PCDat	kadar+Postp+PCGen	kadar+Postp+P
 kör	kör+Adj	kör+Noun+A3sg+Pnon+Nom
 gözün	göz+Noun+A3sg+Pnon+Gen	göz+Noun+A3sg+P2sg+Nom
 parmağına	parmak+Noun+A3sg+P3sg+Dat	parmak+Noun+A3sg+P2sg+Dat
-ki,sanırım	*UNKNOWN*
+ki,sanırım	?	*UNKNOWN*
 yakında	yakın+Noun+A3sg+Pnon+Loc	yakı+Noun+A3sg+P2sg+Loc	yakında+Adverb	yakın+Adj^DB+Noun+Zero+A3sg+Pnon+Loc
 yayından	yayın+Noun+A3sg+Pnon+Abl	yay+Noun+A3sg+P2sg+Abl	yay+Noun+A3sg+P3sg+Abl
 kaldırırlar	kaldır+Verb+Pos+Aor+A3pl	kaldır+Verb+Pos^DB+Adj+AorPart^DB+Verb+Zero+Pres+A3pl	kal+Verb^DB+Verb+Caus+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3pl+Pnon+Nom	kal+Verb^DB+Verb+Caus+Pos+Aor+A3pl	kal+Verb^DB+Verb+Caus+Pos^DB+Adj+AorPart^DB+Verb+Zero+Pres+A3pl	kaldır+Verb+Pos^DB+Adj+AorPart^DB+Noun+Zero+A3pl+Pnon+Nom
@@ -22105,7 +22105,7 @@ maçını	maç+Noun+A3sg+P3sg+Acc	maç+Noun+A3sg+P2sg+Acc
 geçtikten	geç+Verb+Pos^DB+Noun+PastPart+A3sg+Pnon+Abl
 sonra	sonra+Postp+PCAbl	sonra+Adverb	sonra+Noun+A3sg+Pnon+Nom
 ligde	lig+Noun+A3sg+Pnon+Loc
-G.Saray	*UNKNOWN*
+G.Saray	?	*UNKNOWN*
 ile	ile+Postp+PCNom	ile+Conj	il+Noun+A3sg+Pnon+Dat
 final	final+Noun+A3sg+Pnon+Nom
 oynayarak	oyna+Verb+Pos^DB+Adverb+ByDoingSo
@@ -22136,7 +22136,7 @@ belirtti	belir+Verb^DB+Verb+Caus+Pos+Past+A3sg
 <S id="3.68.97">
 Mesela	mesela+Adverb
 ,	,+Punct
-G.Saray	*UNKNOWN*
+G.Saray	?	*UNKNOWN*
 kaptanı	kaptan+Noun+A3sg+P3sg+Nom	kaptan+Noun+A3sg+Pnon+Acc
 Bülent'in	Bülent+Noun+Prop+A3sg+Pnon+Gen
 Kocaelispor	Kocaelispor+Noun+Prop+A3sg+Pnon+Nom
@@ -22749,7 +22749,7 @@ Geographika	geographika+Noun+A3sg+Pnon+Nom
 :	:+Punct
 Yeniden	yeniden+Adverb	yeni+Adj^DB+Noun+Zero+A3sg+Pnon+Abl
 Keşfedilen	keşfet+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
-Yunanistan''dan	*UNKNOWN*
+Yunanistan''dan	?	*UNKNOWN*
 sonra	sonra+Postp+PCAbl	sonra+Adverb	sonra+Noun+A3sg+Pnon+Nom
 bu	bu+Det	bu+Pron+Demons+A3sg+Pnon+Nom
 konudaki	konu+Noun+A3sg+Pnon+Loc^DB+Adj+Rel
@@ -23251,7 +23251,7 @@ Doğuş	Doğuş+Noun+Prop+A3sg+Pnon+Nom	doğ+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom
 Çelik	çelik+Adj	Çelik+Noun+Prop+A3sg+Pnon+Nom	çelik+Noun+A3sg+Pnon+Nom
 Civata	cıvata+Noun+A3sg+Pnon+Nom
 Sanayii	sanayi+Noun+A3sg+P3sg+Nom	sanayi+Noun+A3sg+Pnon+Acc
-A.Ş.	*UNKNOWN*
+A.Ş.	?	*UNKNOWN*
 adına	ad+Noun+A3sg+P3sg+Dat	ad+Noun+A3sg+P2sg+Dat
 tescil	tescil+Noun+A3sg+Pnon+Nom
 ettirdi	et+Verb^DB+Verb+Caus+Pos+Past+A3sg
@@ -23265,7 +23265,7 @@ pişmanım	pişman+Adj^DB+Verb+Zero+Pres+A1sg	pişman+Adj^DB+Noun+Zero+A3sg+P1sg
 .	.+Punct
 </S>
 <S id="3.110.28">
-H.A.	*UNKNOWN*
+H.A.	?	*UNKNOWN*
 :	:+Punct
 Evet	?	evet+Adverb
 .	.+Punct
@@ -23578,7 +23578,7 @@ Makineden	makine+Noun+A3sg+Pnon+Abl
 ,	,+Punct
 '	'+Punct
 beyaz	beyaz+Adj
-formül'denilen	*UNKNOWN*
+formül'denilen	?	*UNKNOWN*
 atamalardan	ata+Verb+Pos^DB+Noun+Inf2+A3pl+Pnon+Abl
 villalara	villa+Noun+A3pl+Pnon+Dat
 kadar	kadar+Postp+PCDat	kadar+Postp+PCGen	kadar+Postp+PCNom	kadar+Noun+A3sg+Pnon+Nom
@@ -24471,7 +24471,7 @@ insanlar	insan+Noun+A3pl+Pnon+Nom	insan+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3p
 Ahmet	Ahmet+Noun+Prop+A3sg+Pnon+Nom
 için	için+Postp+PCNom	iç+Noun+A3sg+P2sg+Nom	için+Postp+PCGen	iç+Noun+A3sg+Pnon+Gen	iç+Verb+Pos+Imp+A2pl
 kendiliğinden	kendiliğinden+Adverb
-Kur'an	*UNKNOWN*
+Kur'an	?	*UNKNOWN*
 okuyorlar	oku+Verb+Pos+Prog1+A3pl
 .	.+Punct
 </S>
@@ -24581,7 +24581,7 @@ Ve	ve+Conj
 bugünkü	bugün+Noun+A3sg+Pnon+Nom^DB+Adj+Rel
 modern	modern+Adj
 hayat	hayat+Noun+A3sg+Pnon+Nom
-var''diye	*UNKNOWN*
+var''diye	?	*UNKNOWN*
 anlatıyor	anlat+Verb+Pos+Prog1+A3sg	anla+Verb^DB+Verb+Caus+Pos+Prog1+A3sg
 .	.+Punct
 </S>
@@ -25083,7 +25083,7 @@ o	o+Det	o+Pron+Demons+A3sg+Pnon+Nom	o+Noun+A3sg+Pnon+Nom	o+Pron+Pers+A3sg+Pnon+N
 kültürü	kültür+Noun+A3sg+Pnon+Acc	kültür+Noun+A3sg+P3sg+Nom
 yansıtan	yansı+Verb^DB+Verb+Caus+Pos^DB+Adj+PresPart
 bir	bir+Det	bir+Num+Card	bir+Adverb	bir+Adj
-gelişme"den	*UNKNOWN*
+gelişme"den	?	*UNKNOWN*
 sözetmek	sözet+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
 mümkün	mümkün+Adj
 değil	değil+Verb+Neg+Pres+A3sg	değ+Verb^DB+Verb+Pass+Pos+Imp+A2sg	değil+Conj
@@ -25227,7 +25227,7 @@ ve	ve+Conj
 de	de+Conj	de+Verb+Pos+Imp+A2sg
 atamız	ata+Noun+A3sg+P1pl+Nom
 hanımefendi	hanımefendi+Noun+A3sg+Pnon+Nom
-Lucy'nin	*UNKNOWN*
+Lucy'nin	?	*UNKNOWN*
 replikası	replika+Noun+A3sg+P3sg+Nom	replika+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike	replikas+Noun+A3sg+P3sg+Nom	replikas+Noun+A3sg+Pnon+Acc
 (	(+Punct
 aslı	asıl+Adj^DB+Noun+Zero+A3sg+P3sg+Nom	as+Noun+A3sg+Pnon+Nom^DB+Adj+With	asıl+Adj^DB+Noun+Zero+A3sg+Pnon+Acc
@@ -25347,7 +25347,7 @@ söylüyor	söyle+Verb+Pos+Prog1+A3sg
 :	:+Punct
 ''	''+Punct
 Biz	biz+Pron+Pers+A1pl+Pnon+Nom	biz+Noun+A3sg+Pnon+Nom	Biz+Noun+Prop+A3sg+Pnon+Nom
-CRM'in	*UNKNOWN*
+CRM'in	?	*UNKNOWN*
 önemini	önem+Noun+A3sg+P3sg+Acc	önem+Noun+A3sg+P2sg+Acc
 1995'te	1995+Num+Card^DB+Noun+Zero+A3sg+Pnon+Loc
 herkesten	herkes+Noun+A3sg+Pnon+Abl	herkes+Pron+Quant+A3pl+Pnon+Abl
@@ -26201,7 +26201,7 @@ isteyenler	iste+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3pl+Pnon+Nom	iste+Verb+Po
 de	de+Conj	de+Verb+Pos+Imp+A2sg
 üye	üye+Noun+A3sg+Pnon+Nom	ü+Noun+A3sg+Pnon+Dat
 oluyor.	?	öl+Verb+Pos+Prog1+A3sg	ol+Verb+Pos+Prog1+A3sg
-www.gittigidiyor.com	*UNKNOWN*
+www.gittigidiyor.com	?	*UNKNOWN*
 MİGROS	Migros+Noun+Prop+A3sg+Pnon+Nom
 VEYA	veya+Conj
 KANGURUM	kanguru+Noun+A3sg+P1sg+Nom
@@ -26223,11 +26223,11 @@ Migros	Migros+Noun+Prop+A3sg+Pnon+Nom
 Sanal	Sanal+Noun+Prop+A3sg+Pnon+Nom	sanal+Adj
 Market	Market+Noun+Prop+A3sg+Pnon+Nom	market+Noun+A3sg+Pnon+Nom
 (	(+Punct
-www.kangurum.com.tr	*UNKNOWN*
+www.kangurum.com.tr	?	*UNKNOWN*
 )	)+Punct
 daha	daha+Adverb	daha+Noun+A3sg+Pnon+Nom
 sonra	sonra+Adverb	sonra+Postp+PCAbl	sonra+Noun+A3sg+Pnon+Nom
-www.migros.com.tr	*UNKNOWN*
+www.migros.com.tr	?	*UNKNOWN*
 adını	ad+Noun+A3sg+P3sg+Acc	ad+Noun+A3sg+P2sg+Acc
 aldı	al+Verb+Pos+Past+A3sg	al+Adj^DB+Verb+Zero+Past+A3sg
 .	.+Punct
@@ -26244,7 +26244,7 @@ zorlayıp	zorla+Verb+Pos^DB+Adverb+AfterDoingSo
 ,	,+Punct
 sonunda	sonunda+Adverb	son+Noun+A3sg+P2sg+Loc	son+Noun+A3sg+P3sg+Loc
 Yunan	Yunan+Noun+Prop+A3sg+Pnon+Nom	yunan+Noun+A3sg+Pnon+Nom	yunan+Adj	yuna+Noun+A3sg+P2sg+Nom
-yemeklerini'yiyebilir	*UNKNOWN*
+yemeklerini'yiyebilir	?	*UNKNOWN*
 '	'+Punct
 hale	hal+Noun+A3sg+Pnon+Dat	hale+Noun+A3sg+Pnon+Nom
 gelmiş	gel+Verb+Pos+Narr+A3sg	gel+Verb+Pos^DB+Adj+NarrPart
@@ -26257,7 +26257,7 @@ Kıbrıs'ında	?	Kýbrýs+Noun+Prop+A3sg+P3sg+Loc	Kýbrýs+Noun+Prop+A3sg+P2sg+L
 yediğim	ye+Verb+Pos^DB+Adj+PastPart+P1sg	ye+Verb+Pos^DB+Noun+PastPart+A3sg+P1sg+Nom
 yemeklerden	yemek+Noun+A3pl+Pnon+Abl
 ilham	ilham+Noun+A3sg+Pnon+Nom
-alıyorum'diyormuş	*UNKNOWN*
+alıyorum'diyormuş	?	*UNKNOWN*
 .	.+Punct
 </S>
 <S id="3.196.63">
@@ -26863,7 +26863,7 @@ Polat	Polat+Noun+Prop+A3sg+Pnon+Nom
 Önümüzde	ön+Noun+A3sg+P1pl+Loc
 Beşiktaş	Beşiktaş+Noun+Prop+A3sg+Pnon+Nom
 -	-+Punct
-G.Saray	*UNKNOWN*
+G.Saray	?	*UNKNOWN*
 maçı	maç+Noun+A3sg+P3sg+Nom	maç+Noun+A3sg+Pnon+Acc
 var	var+Adj	var+Verb+Pos+Imp+A2sg
 .	.+Punct
@@ -27349,7 +27349,7 @@ ile	ile+Postp+PCNom	ile+Conj	il+Noun+A3sg+Pnon+Dat
 birlikte	birlikte+Postp+PCIns	birlik+Noun+A3sg+Pnon+Loc	birlikte+Adverb
 Doğan	Doğan+Noun+Prop+A3sg+Pnon+Nom	doğ+Verb+Pos^DB+Adj+PresPart	doğa+Noun+A3sg+P2sg+Nom
 Television	televisio+Noun+A3sg+P2sg+Nom
-Center'ı	*UNKNOWN*
+Center'ı	?	*UNKNOWN*
 gezdi	gez+Verb+Pos+Past+A3sg	gez+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
 .	.+Punct
 </S>
@@ -27455,7 +27455,7 @@ yılında	yıl+Noun+A3sg+P3sg+Loc	yıl+Noun+A3sg+P2sg+Loc
 sınıfa	sınıf+Noun+A3sg+Pnon+Dat
 giden	git+Verb+Pos^DB+Adj+PresPart
 kızı	kız+Noun+A3sg+P3sg+Nom	kız+Noun+A3sg+Pnon+Acc
-E.Z.'nin	*UNKNOWN*
+E.Z.'nin	?	*UNKNOWN*
 Alevi	?	alevi+Adj	alev+Noun+A3sg+P3sg+Nom	alev+Noun+A3sg+Pnon+Acc	Alev+Noun+Prop+A3sg+P3sg+Nom	Alevi+Noun+Prop+A3sg+Pnon+Nom	alevi+Noun+A3sg+Pnon+Nom
 bilgilerin	bilgi+Noun+A3pl+Pnon+Gen	bilgi+Noun+A3pl+P2sg+Nom
 yer	yer+Noun+A3sg+Pnon+Nom	yer+Verb+Pos+Imp+A2sg	ye+Verb+Pos^DB+Adj+AorPart	ye+Verb+Pos+Aor+A3sg
@@ -27571,7 +27571,7 @@ verir	ver+Verb+Pos+Aor+A3sg	ver+Verb+Pos^DB+Adj+AorPart
 .	.+Punct
 </S>
 <S id="3.241.8">
-No:4	*UNKNOWN*
+No:4	?	*UNKNOWN*
 Erenköy	Erenköy+Noun+Prop+A3sg+Pnon+Nom
 .	.+Punct
 </S>
@@ -27941,7 +27941,7 @@ kaydediyor	kaydet+Verb+Pos+Prog1+A3sg
 .	.+Punct
 </S>
 <S id="3.262.39">
-22.4.1999	*UNKNOWN*
+22.4.1999	?	*UNKNOWN*
 DGM	Dgm+Noun+Prop+A3sg+Pnon+Nom
 ,	,+Punct
 10	10+Num+Card
@@ -28622,7 +28622,7 @@ edildi	et+Verb^DB+Verb+Pass+Pos+Past+A3sg
 .	.+Punct
 </S>
 <S id="3.283.15">
-D200'ün	*UNKNOWN*
+D200'ün	?	*UNKNOWN*
 Türkiye'deki	Türkiye+Noun+Prop+A3sg+Pnon+Loc^DB+Adj+Rel
 pazarının	pazar+Noun+A3sg+P3sg+Gen	pazar+Noun+A3sg+P2sg+Gen
 çok	çok+Adverb	çok+Postp+PCAbl	çok+Adj	çok+Det
@@ -28907,7 +28907,7 @@ Yazar	yazar+Noun+A3sg+Pnon+Nom	yaz+Verb+Pos+Aor+A3sg	Yazar+Noun+Prop+A3sg+Pnon+N
 :	:+Punct
 Obez	obez+Adj
 Anne	anne+Noun+A3sg+Pnon+Nom
-http://obezanne.blogspot.com	*UNKNOWN*
+http://obezanne.blogspot.com	?	*UNKNOWN*
 /	/+Punct
 Taştan	taş+Noun+A3sg+Pnon+Abl	Taştan+Noun+Prop+A3sg+Pnon+Nom
 biraz	biraz+Adverb	biraz+Adj
@@ -29791,7 +29791,7 @@ oluşturulacak	oluş+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos+Fut+A3sg	oluş+Verb^DB+V
 .	.+Punct
 </S>
 <S id="3.328.26">
-A.E'nin	*UNKNOWN*
+A.E'nin	?	*UNKNOWN*
 ,	,+Punct
 suç	suç+Noun+A3sg+Pnon+Nom
 işlerken	işle+Verb+Pos+Aor^DB+Adverb+While
@@ -30155,7 +30155,7 @@ birinciliği	birinci+Num+Ord^DB+Noun+Ness+A3sg+Pnon+Acc	birinci+Num+Ord^DB+Noun+
 açık	açık+Adj	açık+Adverb
 arayla	ara+Noun+A3sg+Pnon+Ins
 uluslararası	ulus+Noun+A3pl+Pnon+Nom^DB+Adj+InBetween
-Ernst&Young	*UNKNOWN*
+Ernst&Young	?	*UNKNOWN*
 Türkiye	Türkiye+Noun+Prop+A3sg+Pnon+Nom	türki+Adj^DB+Noun+Zero+A3sg+Pnon+Dat
 ofisi	ofis+Noun+A3sg+P3sg+Nom	ofis+Noun+A3sg+Pnon+Acc
 ve	ve+Conj
@@ -30639,7 +30639,7 @@ kalmıyor	kal+Verb+Neg+Prog1+A3sg
 .	.+Punct
 </S>
 <S id="3.358.4">
-Ucuztablo.com	*UNKNOWN*
+Ucuztablo.com	?	*UNKNOWN*
 adresindeki	adres+Noun+A3sg+P3sg+Loc^DB+Adj+Rel	adres+Noun+A3sg+P2sg+Loc^DB+Adj+Rel
 siteden	site+Noun+A3sg+Pnon+Abl
 hizmet	hizmet+Noun+A3sg+Pnon+Nom
