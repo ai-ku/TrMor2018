@@ -2,7 +2,7 @@
 
 ## TrMor2018
 
-New Turkish morphology dataset based on mixed genre text used in the following paper.
+New Turkish morphology dataset based on mixed genre text used in the following paper ([pdf](http://arxiv.org/abs/1805.07946), [code](https://github.com/ai-ku/Morse.jl)).
 
 ```
 @article{DBLP:journals/corr/abs-1805-07946,
